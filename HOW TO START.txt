@@ -1,0 +1,63 @@
+MyCat - a desk cat for Windows 10 and 11
+==========================================
+
+
+ENGLISH
+
+1. Install Python. It is free and you do this once.
+   Easiest: open the Microsoft Store, search for "Python", press Get.
+   Or download it from python.org.
+2. Unzip this folder anywhere, for example onto the Desktop.
+3. Double-click "Start MyCat.bat".
+
+The cat asks for your language and a name. Windows may first ask you to confirm
+that you want to open a file you received from someone else.
+
+Its AI brain is optional. If you want it, the cat downloads it by itself, once
+(4.6 GB). After that it works without the internet.
+Everything the cat learns stays on your own computer. Only the weather is looked
+up online (one switch turns that off), and an online AI only if you yourself
+switch one on in its "AI brain" tab.
+
+To close the cat: right-click it, then choose Quit.
+
+
+РУССКИЙ
+
+1. Установите Python. Это бесплатно и делается один раз.
+   Проще всего: откройте Microsoft Store, найдите «Python» и нажмите «Получить».
+   Или скачайте его с сайта python.org.
+2. Распакуйте эту папку куда угодно, например на рабочий стол.
+3. Дважды щёлкните по файлу «Start MyCat.bat».
+
+Кот спросит язык и имя. Сначала Windows может попросить подтвердить, что вы
+хотите открыть файл, полученный от другого человека.
+
+ИИ-мозг кота не обязателен. Если он нужен, кот сам скачает его один раз
+(4,6 ГБ). После этого он работает без интернета.
+Всё, что кот замечает, остаётся на вашем компьютере. В интернете он смотрит
+только погоду (это отключается одним переключателем), а онлайн-ИИ работает,
+только если вы сами включите его на вкладке «ИИ-мозг».
+
+Чтобы закрыть кота: щёлкните по нему правой кнопкой и выберите «Выход».
+
+
+ЎЗБЕКЧА
+
+1. Python дастурини ўрнатинг. У бепул, бу иш бир марта қилинади.
+   Энг осони: Microsoft Store'ни очинг, «Python» деб қидиринг ва
+   «Получить» (Get) тугмасини босинг.
+   Ёки python.org сайтидан юклаб олинг.
+2. Бу папкани хоҳлаган жойга, масалан иш столига чиқариб олинг.
+3. «Start MyCat.bat» файлини икки марта босинг.
+
+Мушук тил ва исмни сўрайди. Аввал Windows бошқа одамдан олинган файлни
+очмоқчи эканингизни тасдиқлашни сўраши мумкин.
+
+Мушукнинг сунъий интеллект мияси шарт эмас. Керак бўлса, мушук уни ўзи
+бир марта юклаб олади (4,6 ГБ). Шундан кейин у интернетсиз ишлайди.
+Мушук пайқаган ҳамма нарса ўз компьютерингизда қолади. Интернетдан фақат
+об-ҳавони олади (буни битта тугма билан ўчириш мумкин), онлайн сунъий
+интеллект эса «СИ мияси» бўлимида ўзингиз ёқсангизгина ишлайди.
+
+Мушукни ёпиш учун: устига сичқончанинг ўнг тугмасини босиб, «Чиқиш»ни танланг.
