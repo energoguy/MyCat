@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+out/
+build/
+dist/
+sprites.png
+# the offline AI, if you packed it next to the app: 5 GB, not for a repository
+ai/
